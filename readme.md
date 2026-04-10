@@ -1,6 +1,6 @@
 # miniNginx (C++ epoll Reverse Proxy)
 
-A lightweight HTTP server and reverse proxy built from scratch in C++ using Linux sockets and `epoll`.
+A lightweight HTTP server and reverse proxy with load balancer built from scratch in C++ using Linux sockets and `epoll`.
 
 This project was designed to learn systems programming concepts including:
 
